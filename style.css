@@ -1,0 +1,43 @@
+body{
+    background-color: white;
+    color: white;
+}
+.not{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    font-size: 30px;
+margin-left: 300px;
+letter-spacing: -3px;
+word-spacing: 20px;
+}
+.img{
+    margin-left: 500px;
+}
+.news{
+    color: black;
+    font-size: 80px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 600px;
+    font-weight: 10px;
+    word-spacing: 20px;
+    line-height: 150px;
+}
+.page{
+    color: rgba(0, 0, 0, 0.847);
+    font-size:50px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: 10px;
+    margin-left: 530px;
+    line-height: 80px;
+}
+.back{
+    text-transform: uppercase;
+    background: black;
+    color: white;
+    height: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 280px;
+    word-spacing: 10px;
+    margin-left: 550px;
+    font-size: 18px;
+}
